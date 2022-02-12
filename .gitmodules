@@ -1,3 +1,9 @@
 [submodule "subm_test_update"]
 	path = subm_test_update
 	url = https://github.com/webdev-archist/MINDFRUITS___ssl
+[submodule "sass_bem"]
+	path = sass_bem
+	url = git@github.com:achicyr/SCSS-BEM____ArchitectureBlockElementModifier.git
+[submodule "oc_env"]
+	path = oc_env
+	url = git@github.com:achicyr/0_ENV.git
