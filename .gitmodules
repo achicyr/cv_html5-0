@@ -1,0 +1,3 @@
+[submodule "subm_test_update"]
+	path = subm_test_update
+	url = https://github.com/webdev-archist/MINDFRUITS___ssl
