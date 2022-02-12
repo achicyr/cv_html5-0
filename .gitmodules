@@ -4,3 +4,6 @@
 [submodule "sass_bem"]
 	path = sass_bem
 	url = git@github.com:achicyr/SCSS-BEM____ArchitectureBlockElementModifier.git
+[submodule "OC_env"]
+	path = OC_env
+	url = git@github.com:achicyr/0_ENV.git
